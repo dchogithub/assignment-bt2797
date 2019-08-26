@@ -3,6 +3,19 @@
 
 **NetID: bt2797**
 
-## Question 1
+# Question 1
+## (a)
 
-## Question 2
+## (b)
+
+# Question 2
+## (a)
+
+## (b)
+
+## (c)
+
+# Question 3
+## (a)
+
+## (b)
