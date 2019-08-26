@@ -28,7 +28,5 @@
 # Question 3
 ## (a)
 
-![3A](https://github.com/dchogithub/assignment-bt2797/blob/master/images/3A.JPG)
-
 ## (b)
 
