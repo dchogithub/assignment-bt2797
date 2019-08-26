@@ -75,4 +75,5 @@
 ## (b)
 
 JetBrains PhpStorm is a commercial, cross-platform IDE (integrated development environment) for PHP built on JetBrains' IntelliJ IDEA platform. PhpStorm provides an editor for PHP, HTML and JavaScript with on-the-fly code analysis, error prevention and automated refactorings for PHP and JavaScript code.
+
 [PhpStorm](https://www.jetbrains.com/phpstorm/)
