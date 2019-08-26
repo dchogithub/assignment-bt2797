@@ -1,5 +1,8 @@
-**Student Name: ** Your Name Here
+# Homework #1 Solution
+**David Cho**
 
-**NetID: ** Your NetID Here
+**NetID: bt2797**
 
-# Assignment Writeup
+## Question 1
+
+## Question 2
